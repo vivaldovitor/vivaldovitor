@@ -4,8 +4,8 @@ Bem-vindo ao meu perfil! Aqui você encontrará uma coleção de projetos e estu
 Sou um desenvolvedor apaixonado por automação, inteligência artificial e análise de dados. Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades.
 
 - Explorando novas tecnologias e aprimorando minhas habilidades.
-- Interesse especial em **IA, Automação e Data Science**.
-- Trabalhando com **Python, JavaScript, SQL e Java**.
+- **Desenvolvimento de Software, IA, Automação e Data Science**.
+- **Python, JavaScript, SQL e Java**.
 - Sempre aberto a colaborações e novas ideias.
 
 
